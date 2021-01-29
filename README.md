@@ -36,6 +36,18 @@ cdmap create
 
 * [X北辰北](http://www.xbeichenbei.com/)
 
+#### 错误处理
+
+* 由于网络等问题，创建项目时可能会报错，如果出错，请直接从下面地址拉取模版代码：
+
+* ```
+  vue模版代码：https://github.com/xuqwCloud/vuemap.git
+  ```
+
+* ```
+  react模版代码：https://github.com/xuqwCloud/reactmap.git
+  ```
+
   
 
 **重要说明：** cdmap-cli脚手架目前正处于开发测试阶段，所以遇到问题时请联系我们，会尽快为您解决！ 
