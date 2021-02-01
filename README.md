@@ -62,7 +62,7 @@ cdmap create
 
 #### Bug解决方案
 
-* ID 000001（未解决）：（方案待定）
+* ID 000001（已解决）：电脑环境中需要安装Git，可到[Git官网](https://git-scm.com/)下载安装；
 
 
 
