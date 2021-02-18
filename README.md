@@ -44,20 +44,6 @@ cdmap create
 
 * [X北辰北](http://www.xbeichenbei.com/)
 
-#### 错误处理
-
-* 由于网络等问题，创建项目时可能会报错，如果出错，请直接从下面地址拉取模版代码：
-
-* ```
-  vue模版代码：https://github.com/xuqwCloud/vuemap.git
-  ```
-
-* ```
-  react模版代码：https://github.com/xuqwCloud/reactmap.git
-  ```
-
-  
-
 #### Bug列表
 
 * 000001：创建项目时报错“Error: spawn git ENOENT”。

@@ -1,0 +1,11 @@
+#mapview {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+/*去除mapview拖动时的边框*/
+.esri-view .esri-view-surface--inset-outline:focus::after {
+    outline: auto 0px Highlight !important;
+    outline: auto 0px -webkit-focus-ring-color !important;
+}
