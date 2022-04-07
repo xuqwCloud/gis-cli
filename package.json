@@ -1,6 +1,6 @@
 {
     "name": "@gis/cli",
-    "version": "1.0.9",
+    "version": "1.0.10",
     "description": "基于ArcGIS API for JavaScript开发的一个脚手架工具。",
     "main": "index.js",
     "bin": {
