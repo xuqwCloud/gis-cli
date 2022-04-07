@@ -1,10 +1,10 @@
-# cdmap-cli
+# gis-cli
 基于ArcGIS API for JavaScript开发的一个脚手架工具。
 
 #### 安装
 
 ```
-npm i cdmap-cli -g
+npm i @gis/cli -g
 ```
 
 ##### 注意：如果电脑环境中没有安装ncp工具的话，还需要全局额外安装一个ncp工具，命令如下：
@@ -16,13 +16,13 @@ npm i ncp -g
 #### 查看版本号
 
 ```
-cdmap -V
+gis -V
 ```
 
 #### 创建项目
 
 ```
-cdmap create
+gis create
 ```
 
 #### 已实现功能（更新列表）
@@ -55,4 +55,4 @@ cdmap create
 
 
 
-**重要说明：** cdmap-cli脚手架目前正处于开发测试阶段，所以遇到问题时请联系我们，会尽快为您解决！ 
+**重要说明：** gis-cli脚手架目前正处于开发测试阶段，所以遇到问题时请联系我们，会尽快为您解决！ 

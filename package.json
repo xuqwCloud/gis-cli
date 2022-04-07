@@ -1,17 +1,17 @@
 {
-    "name": "cdmap-cli",
+    "name": "gis-cli",
     "version": "1.0.4",
     "description": "基于ArcGIS API for JavaScript开发的一个脚手架工具。",
     "main": "index.js",
     "bin": {
-        "cdmap": "./bin/cdmap.js"
+        "gis": "./bin/gis.js"
     },
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/xuqwCloud/cdmap-cli.git"
+        "url": "git+https://github.com/xuqwCloud/gis-cli.git"
     },
     "keywords": [
         "mapcli",
@@ -21,9 +21,9 @@
     "author": "X北辰北",
     "license": "Apache",
     "bugs": {
-        "url": "https://github.com/xuqwCloud/cdmap-cli/issues"
+        "url": "https://github.com/xuqwCloud/gis-cli/issues"
     },
-    "homepage": "https://github.com/xuqwCloud/cdmap-cli#readme",
+    "homepage": "https://github.com/xuqwCloud/gis-cli#readme",
     "dependencies": {
         "chalk": "^4.1.0",
         "clear": "^0.1.0",
