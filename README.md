@@ -1,10 +1,10 @@
-# gis/cli
+# gis-cli
 基于ArcGIS API for JavaScript开发的一个脚手架工具。
 
 #### 安装
 
 ```
-npm i gis/cli -g
+npm i @xuqw/gis-cli -g
 ```
 
 ##### 注意：如果电脑环境中没有安装ncp工具的话，还需要全局额外安装一个ncp工具，命令如下：
